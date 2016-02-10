@@ -1,15 +1,8 @@
----
-layout: post
-title: Pubblicare il codice pubblico
-image: https://raw.githubusercontent.com/opensensorsdata/PorcellinoBot/master/stickers/porcellino/png/porcellino_intro.png
-imglink: https://github.com/opensensorsdata/PorcellinoBot
-tags:
- - osd
- - doc
- - open business model
----
+#Pubblicare il codice pubblico
 
-# Del codice non si butta via niente
+## Del codice non si butta via niente
+
+articolo pubblicato in [http://doc.opensensorsdata.it/2016/02/10/Pubblicare-codice-pubblico](http://doc.opensensorsdata.it/2016/02/10/Pubblicare-codice-pubblico)
 
 Chi segue le nostre attività sa bene che a noi piace [prenderci poco sul serio](http://doc.opensensorsdata.it/keynote/20151202-BTO-Winckelmann-Squallor/#/). Oggi vogliamo prenderci 10 minuti di pausa dal nostro consueto stile. Il motivo è semplice. Nel nostro [manifesto](http://www.opensensorsdata.it/#manifesto) diciamo di essere imprenditori civici. Con questo post vogliamo dimostrarlo con i fatti. Se, come noi, vi siete battuti e avete lavorato in questi anni per migliorare l’accesso alle informazioni, ai dati e per il riuso delle risorse e per la sicurezza delle infrastrutture pubbliche, vi promettiamo che non rimarrete delusi (semmai vi si rimborsa). 
 
